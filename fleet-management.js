@@ -53,7 +53,7 @@ class vehicle {
     }
 }
 
-//Instantiate three vehicles
+//Instantiate vehicles
 let suv = new vehicle('SUV', 'Honda', 'CR-V', 2014, 60000);
 let truck = new vehicle('Truck', 'Dodge', 'Ram 1500', 2017, 50000);
 let car = new vehicle('Car', 'Ford', 'Mustang', 2024, 10000);
